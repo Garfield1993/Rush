@@ -1,0 +1,8 @@
+[package]
+
+name = "ws"
+version = "0.0.1"
+authors = [ "Garfield Zhu <Garfield.bupt@gmail.com>" ]
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/GarfieldZHU/mqtt-rust"
