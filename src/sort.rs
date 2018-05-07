@@ -3,7 +3,7 @@
  * Todo: Generic implementation
  */
 
-fn partition(arr: &mut [i64], low: usize, high: usize){
+fn partition(arr: &mut [i64], low: usize, high: usize) -> usize{
     let pivot:i64 = arr[high];
     let i: usize = low - 1;
     let j: usize;
