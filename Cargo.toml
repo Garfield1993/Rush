@@ -1,6 +1,6 @@
 [package]
 
-name = "ws"
+name = "rush"
 version = "0.0.1"
 authors = [ "Garfield Zhu <Garfield.bupt@gmail.com>" ]
 license = "MIT"
