@@ -1,6 +1,6 @@
 # Rush
 
 --------------
-[![Build Status](https://travis-ci.org/GarfieldZHU/mqtt-rust.svg?branch=master)](https://travis-ci.org/GarfieldZHU/mqtt-rust)
+[![Build Status](https://travis-ci.org/GarfieldZHU/Rush.svg?branch=master)](https://travis-ci.org/GarfieldZHU/Rush)
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
-[![Coverage Status](https://coveralls.io/repos/github/GarfieldZHU/mqtt-rust/badge.svg?branch=master)](https://coveralls.io/github/GarfieldZHU/mqtt-rust?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/GarfieldZHU/Rush/badge.svg?branch=master)](https://coveralls.io/github/GarfieldZHU/Rush?branch=master)
