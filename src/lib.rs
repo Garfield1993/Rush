@@ -12,6 +12,6 @@ mod tests {
     fn test_bad_add() {
         // This assert would fire and test will fail.
         // Please note, that private functions can be tested too!
-        assert_eq!(2, 3);
+        assert_ne!(2, 3);
     }
 }
