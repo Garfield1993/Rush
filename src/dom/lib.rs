@@ -1,5 +1,7 @@
+use parser;
+
 #[cfg(test)]
-mod tests {
+mod dom {
     // Note this useful idiom: importing names from outer (for mod tests) scope.
     use super::*;
 
@@ -9,9 +11,10 @@ mod tests {
     }
 
     #[test]
-    fn test_bad_add() {
+    fn test_parse() {
         // This assert would fire and test will fail.
         // Please note, that private functions can be tested too!
+        parser := new parser.Parser()
         assert_ne!(2, 3);
     }
 }

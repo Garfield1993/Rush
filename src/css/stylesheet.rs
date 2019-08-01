@@ -1,9 +1,9 @@
 enum Selector {
-    Simple(SimpleSelector),
+    Basic(BasicSelector),
 }
 
-struct SimpleSelector {
-    tag_name: Option<String>,
+struct BasicSelector {
+    tagName: Option<String>,
     id: Option<String>,
     class: Vec<String>,
 }
@@ -23,7 +23,7 @@ enum Value {
 
 enum Unit {
     Px,
-    // insert more units here
+    // TODO: more units
 }
 
 struct Color {
