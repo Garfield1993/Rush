@@ -13,7 +13,6 @@ struct Declaration {
     value: Value,
 }
 
-
 enum Value {
     Keyword(String),
     Length(f32, Unit),

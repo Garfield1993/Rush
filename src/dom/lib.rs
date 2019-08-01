@@ -1,7 +1,10 @@
-use parser;
+extern crate dom;
+
+mod node;
+mod parser;
 
 #[cfg(test)]
-mod dom {
+mod tests {
     // Note this useful idiom: importing names from outer (for mod tests) scope.
     use super::*;
 
