@@ -1,5 +1,3 @@
-use dom::*;
-use css::*;
 
 fn main(){
     // let test_b: bool = true;
